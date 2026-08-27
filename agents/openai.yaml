@@ -1,0 +1,4 @@
+interface:
+  display_name: "表格市场调研"
+  short_description: "证据可追溯的表格市场调研 V1.1"
+  default_prompt: "使用 $market-table-research 完成这次市场调研；先确定目标人群、核心需求和产品方向，再只放入已验证的公开证据。输出 Word 时使用白底、少色、连续流式的正式商业报告排版，逐页检查并消除空页和大块无意义空白。"
