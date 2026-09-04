@@ -104,6 +104,6 @@ market-table-research/
 
 ## 版本与许可证
 
-当前版本：**V1.3（2026-08-28）**
+当前版本：**V1.4（2026-09-04）**
 
 许可证：[MIT License](LICENSE)

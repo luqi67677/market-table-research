@@ -1,4 +1,4 @@
 interface:
   display_name: "市场分析与竞品调研"
-  short_description: "证据驱动的市场分析、竞品与用户调研｜已安装 V1.3"
+  short_description: "证据驱动的市场分析、竞品与硬件产品调研｜已安装 V1.4"
   default_prompt: "使用 $market-table-research 调研目标市场、用户需求与竞品格局，核验公开来源后输出结论优先、证据可追溯的对比报告。"
