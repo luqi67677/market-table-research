@@ -7,7 +7,7 @@ description: 开展证据驱动的市场分析、竞品研究、硬件产品调�
 
 ## 安装与使用
 
-将完整的 `market-table-research` 目录放入目标 Agent 可读取的 Skill 目录，并保持 `SKILL.md`、`agents/`、`references/` 与 `assets/` 的相对路径不变。不同 Agent 的安装位置与调用方式不同，以对应产品的官方说明为准。
+将完整的 `market-table-research` 目录放入目标 Agent 可读取的 Skill 目录，并保持 `SKILL.md`、`agents/`、`references/` 与 `assets/` 的相对路径不变。Codex、Claude Code、Kimi Code 与 WorkBuddy 的安装位置、调用方式和验证命令见 [README](README.md)。
 
 ## 目标
 
